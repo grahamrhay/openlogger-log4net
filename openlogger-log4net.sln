@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger.Log4Net", "src\OpenLogger.Log4Net\OpenLogger.Log4Net.csproj", "{B86AB3F7-3461-4132-A7B2-AC1BA12B5727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger.Log4Net.Tests.Unit", "src\OpenLogger.Log4Net.Tests.Unit\OpenLogger.Log4Net.Tests.Unit.csproj", "{F9C7419B-3BFE-4C93-AAC6-7ECAF89BFBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86AB3F7-3461-4132-A7B2-AC1BA12B5727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86AB3F7-3461-4132-A7B2-AC1BA12B5727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86AB3F7-3461-4132-A7B2-AC1BA12B5727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86AB3F7-3461-4132-A7B2-AC1BA12B5727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C7419B-3BFE-4C93-AAC6-7ECAF89BFBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C7419B-3BFE-4C93-AAC6-7ECAF89BFBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C7419B-3BFE-4C93-AAC6-7ECAF89BFBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C7419B-3BFE-4C93-AAC6-7ECAF89BFBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

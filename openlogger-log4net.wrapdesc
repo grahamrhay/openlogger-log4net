@@ -1,0 +1,5 @@
+﻿depends: openwrap content
+depends: openlogger
+depends: log4net
+build: msbuild; profile=net35; project=src\OpenLogger.Log4Net\OpenLogger.Log4Net.csproj;
+name: openlogger-log4net
